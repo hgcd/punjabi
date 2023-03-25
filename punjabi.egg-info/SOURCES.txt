@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+punjabi/__init__.py
+punjabi/encoding_utils.py
+punjabi/gurmukhi_utils.py
+punjabi/stemmer.py
+punjabi/transliterations.py
+punjabi/utils.py
+punjabi.egg-info/PKG-INFO
+punjabi.egg-info/SOURCES.txt
+punjabi.egg-info/dependency_links.txt
+punjabi.egg-info/top_level.txt

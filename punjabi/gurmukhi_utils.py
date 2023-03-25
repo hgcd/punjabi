@@ -55,7 +55,7 @@ two_unit_syllables = [ 'ਊ', 'ਓ', 'ਈ', 'ਏ', 'ਐ', 'ਆ', 'ਔ' ]
 
 def is_gurmukhi(text):
     """ Checks whether the input text is Gurmukhi """
-    ignore_sumbols = [
+    ignore_symbols = [
         " ", ".", "!", "?", ",", ";", ":", "-", "'", "\"", "(", ")", "[", "]", "\n", "\t"
     ]
     return all([c in (gurmukhi_symbols + ignore_symbols) for c in text])

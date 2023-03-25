@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: punjabi
+Version: 0.0.1
+Summary: Punjabi programming utilities for python
+Home-page: UNKNOWN
+Author: hgcd
+Author-email: harkiratg@cosmodigital.com
+License: MIT
+Keywords: punjabi
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+
+Python utility functions for working with the Punjabi language for basic text processing or more sophisticated NLP tasks
+
