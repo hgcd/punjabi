@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'Punjabi programming utilities for python'
 LONG_DESCRIPTION = 'Python utility functions for working with the Punjabi language for basic text processing or more sophisticated NLP tasks'
 

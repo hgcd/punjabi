@@ -29,7 +29,7 @@ gurmukhi_laga_matravan = [
 ]
 
 gurmukhi_other = [
-   "੍", "'ਃ", "ਁ"
+   "਼", "੍", "'ਃ", "ਁ"
 ]
 
 gurmukhi_punctuation = [
